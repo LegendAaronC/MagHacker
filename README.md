@@ -5,7 +5,7 @@ Koden är obfuskerad för att Magma ska ha det svårt att patcha.
 Tutorials:
 Bookmarklet
 Namn: (Vad du vill)
-URL: javascript:(function(){var js=document.createElement('script'); js.src='https://raw.githack.com/LegendAaronC/MagHacker/refs/heads/main/MagHacker.js'; document.head.appendChild(js);})();
+URL: javascript:(function(){var js=document.createElement('script');js.src='https://raw.githack.com/LegendAaronC/MagHacker/refs/heads/main/MagHacker.js';document.head.appendChild(js);})();
 
 Konsollen
 Öppna: https://raw.githubusercontent.com/LegendAaronC/MagHacker/refs/heads/main/MagHacker.js
